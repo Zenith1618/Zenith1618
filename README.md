@@ -34,5 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenith1618&" alt="zenith1618" /></p>
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
 
+![snake gif](https://github.com/Zenith1618/Zenith1618/blob/output/github-contribution-grid-snake.gif)
