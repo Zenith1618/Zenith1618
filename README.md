@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zenith1618&show_icons=true&cache_seconds=180&locale=en" alt="zenith1618" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenith1618&" alt="zenith1618" /></p>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+
