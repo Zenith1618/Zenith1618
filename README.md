@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tyagisarthak10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mNGwli6VilFoObxWdWm1HPfcfNcakz0e/view?usp=sharing](https://drive.google.com/file/d/1mNGwli6VilFoObxWdWm1HPfcfNcakz0e/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/174Zy2qS658wzk17wts3f17LaCes4UGfP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
