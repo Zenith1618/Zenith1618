@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenith1618&label=Profile%20views&color=0e75b6&style=flat" alt="zenith1618" /> </p>
 
-- 🔭 I’m currently working on Time Series Analysis, Reinforcement Learning
+- 🔭 I’m currently working on **Time Series Analysis, Reinforcement Learning**
 
 - 🌱 I’m currently learning **Machine Learning, JavaScript**
 
